@@ -1,3 +1,3 @@
-worker: npm install canvas
-worker: npm install discord-spoiler-bot --save
-node: index.js
+web: npm install canvas
+web: npm install discord-spoiler-bot --save
+web: node index.js
