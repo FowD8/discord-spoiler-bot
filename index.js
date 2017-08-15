@@ -5,7 +5,7 @@ import os
 const SpoilerBot = require('discord-spoiler-bot');
 
 let config = {
-    token: os.environ['SECRET'],
+    token: 'tc4s3Zc6ocS9k5naKAUtiC1buTvjtYPM',
 };
 
 let bot = new SpoilerBot(config);
