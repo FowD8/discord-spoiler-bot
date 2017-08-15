@@ -1,3 +1,3 @@
-web: npm install canvas
-web: npm install discord-spoiler-bot --save
-web: node index.js
+node: npm install canvas
+node: npm install discord-spoiler-bot --save
+node: node index.js
