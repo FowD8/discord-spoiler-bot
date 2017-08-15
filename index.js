@@ -1,5 +1,3 @@
-import os
-
 'use strict';
 
 const SpoilerBot = require('discord-spoiler-bot');
